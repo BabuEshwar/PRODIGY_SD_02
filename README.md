@@ -27,3 +27,20 @@ Your guess: 75
 Too high! Try again.
 Your guess: 63
 🎉 Congratulations! You guessed the number 63 in 3 attempts.
+
+
+
+## Skills & Technologies
+- Java SE
+- Console input/output handling
+- Exception handling and input validation
+- Random number generation
+- Interactive user engagement
+
+## Author
+R. BABU ESHWAR  
+Intern at Prodigy Infotech
+
+## License
+This project is licensed under MIT License.
+
